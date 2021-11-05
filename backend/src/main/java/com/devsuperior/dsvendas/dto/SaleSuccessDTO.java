@@ -4,8 +4,6 @@ import com.devsuperior.dsvendas.entities.Seller;
 
 public class SaleSuccessDTO {
 
-	private static final long serialVersionUID = 1L;
-
 	private String sellerName;
 	private Long visited;
 	private Long deals;
